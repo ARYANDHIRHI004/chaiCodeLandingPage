@@ -3,7 +3,7 @@ import HiteshSirImage from '../SirImage/HiteshSirImage'
 
 const Main = () => {
   return (
-    <div className='relative z-40 h-[12000px]'>
+    <div className='relative z-40 h-[100vh]'>
         <p className='text-white text-2xl text-center mt-3 text-shadow-blue-50' >Trusted by 1.5M Code Learners</p>
         <div className='flex justify-between '>
             <div className='w-[70vw] mx-10'>
