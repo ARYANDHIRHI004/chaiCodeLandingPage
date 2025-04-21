@@ -3,7 +3,7 @@ import chaiCode from "../../assets/chaicode-white.png"
 
 const Navbar = () => {
   return (
-    <div className='Nav flex justify-around items-center  text-white bg-black h-15 text-[15px] font-sans space-x-50 relative z-40'>
+    <div className='Nav flex justify-around items-center  shadow-lg shadow-amber-600/40 text-white bg-black h-15 text-[15px] font-sans space-x-50 relative z-40'>
         <img src={chaiCode} alt="chaicode" className='w-40' />
         <ul className='flex space-x-8 '>
             <li className='cursor-pointer'>Cohort</li>

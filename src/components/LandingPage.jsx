@@ -3,17 +3,17 @@ import Navbar from "./Navbar/Navbar.jsx"
 
 // Component Importing
 import Main from "./Main/Main.jsx"
-import YoutubeVideos from './AfterHeroSection/YoutubeVideos.jsx'
-import TweeterLove from './AfterHeroSection/TweeterLove.jsx'
-import Cohort from './AfterHeroSection/Cohort.jsx'
-import TechCompanys from './AfterHeroSection/TechCompanys.jsx'
-import Testimonial from './AfterHeroSection/Testimonial.jsx'
-import Udmey from './AfterHeroSection/Udmey.jsx'
-import KeyBenifites from './AfterHeroSection/KeyBenifites.jsx'
-import WhyChaicode from './AfterHeroSection/WhyChaicode.jsx'
-import TopicsCloud from './AfterHeroSection/TopicsCloud.jsx'
-import Community from './AfterHeroSection/Community.jsx'
-import FreeApi from './AfterHeroSection/FreeApi.jsx'
+import YoutubeVideos from './YoutubeVideos.jsx'
+import TweeterLove from './TweeterLove/TweeterLove.jsx'
+import Cohort from './Cohort.jsx'
+import TechCompanys from './TechCompanys.jsx'
+import Testimonial from './Testimonial.jsx'
+import Udmey from './Udmey.jsx'
+import KeyBenifites from './KeyBenifites.jsx'
+import WhyChaicode from './WhyChaicode.jsx'
+import TopicsCloud from './TopicsCloud.jsx'
+import Community from './Community.jsx'
+import FreeApi from './FreeApi.jsx'
 import Footer from "./Footer/Footer"
 
 const LandingPage = () => {
